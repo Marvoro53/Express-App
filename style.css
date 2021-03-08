@@ -1,3 +1,28 @@
+/*home css*/
+*{
+    text-align: center;
+    color: black;
+    text-shadow: white 2px 2px 2px;
+}
+
+li {
+    display: inline;
+  }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    display: inline-block;
+    padding: 10px;
+    background-color: #dddddd;
+  }
+  img{
+      height: 400px;
+      width: 300px;
+  }
+/*end*/
 /*About css*/
 *{
     text-align: center;
@@ -40,4 +65,19 @@ a {
   padding: 10px;
   background-color: #dddddd;
 }
+/*end*/
+/*contact css*/
+li {
+    display: inline;
+  }
+  ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  a {
+    display: inline-block;
+    padding: 10px;
+    background-color: #dddddd;
+  }
 /*end*/
